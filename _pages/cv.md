@@ -11,35 +11,31 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Computer Science, University of Colorado, Boulder, 2030 (expected)
+* B.S. in Information Security, Huazhong University of Science and Technology, 2023
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* 2023.12 - 2024.8
+  * University of Colorado, Boulder
+  * Visiting Scholar
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2021.7 - 2022.8
+  * Singularity Security Lab
+  * Intern Researcher: Windows User Service logical vulnerability research, Fuchsia OS security architecture analysis and vulnerability discovery
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2021.1 - 2021.2
+  * Tencent Security Xuanwu Lab
+  * Intern Researcher: Windows Defender Engine analysis and in-wild vulnerabilities analysis
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming Language
+  * C, C++, Python, Golang
+* CTF
+  * Reverse Engineering, Pwn
+* Windows Security Research
+* Exploitation Development
 
 Publications
 ======
