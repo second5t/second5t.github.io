@@ -22,11 +22,11 @@ Work experience
 
 * 2021.7 - 2022.8
   * Singularity Security Lab
-  * Intern Researcher: Windows User Service logical vulnerability research, Fuchsia OS security architecture analysis and vulnerability discovery
+  * Intern Security Researcher: Windows User Service logical vulnerability research, Fuchsia OS security architecture analysis and vulnerability discovery
 
 * 2021.1 - 2021.2
   * Tencent Security Xuanwu Lab
-  * Intern Researcher: Windows Defender Engine analysis and in-wild vulnerabilities analysis
+  * Intern Security Researcher: Windows Defender Engine analysis and in-wild vulnerabilities analysis
   
 Skills
 ======
@@ -57,4 +57,10 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* ACM CCS 2023 Artifact Evaluation Committee
+* Team Leader of L3H_Sec CTF Team in 2022
+
+CVE and Bugs
+======
+* [CVE-2022-21895](https://msrc.microsoft.com/update-guide/en-US/advisory/CVE-2022-21895): Windows User Profile Service Elevation of Privilege Vulnerability
+* [\[PATCH\] drivers: clocksource: fix memory leak in davinci_timer_register](https://lore.kernel.org/lkml/20230322151945.102353-1-flno@hust.edu.cn/)
