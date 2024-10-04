@@ -12,8 +12,11 @@ I am a 1st-year Ph.D. student in Computer Science at the University of Colorado,
 News
 =========
 
-- [ 2024-08-11 ] Member of team 42-b3yond-6ug which wins DARPA AIxCC semi-final and is awarded $2M towards final
-- [ 2024-03-11 ] Member of team 42-b3yond-6ug which is awarded $1M towards DARPA AIxCC semi-final
+- [ 2024-08-11 ] Member of team ***42-b3yond-6ug*** which wins DARPA AIxCC semi-final and is awarded ***$2M*** towards final
+- [ 2024-06-07 ] Compartmentalizing Vulnerable Kernel Components Without Stopping the Machine Accepted by ***Linux Security Summit 2024***
+- [ 2024-05-28 ] Stop! Sandboxing Exploitable Functions and Modules Using In-Kernel Machine Learning Accepted by ***Black Hat USA 2024***
+- [ 2024-05-03 ] Remote, One-Click, Breaking through Samsung Smartphones via a Non Well-Known Remote Attack Surface Accepted by ***Black Hat USA 2024***
+- [ 2024-03-11 ] Member of team ***42-b3yond-6ug*** which is awarded ***$1M*** towards DARPA AIxCC semi-final
 
 0x0
 =========
