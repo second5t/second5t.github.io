@@ -12,6 +12,7 @@ I am a 1st-year Ph.D. student in Computer Science at the University of Colorado,
 News
 =========
 
+- <u>I'm actively seeking internship in vulnerability and exploit research related jobs!<u>
 - [ 2024-08-11 ] Member of team ***42-b3yond-6ug*** which wins DARPA AIxCC semi-final and is awarded ***$2M*** towards final
 - [ 2024-06-07 ] Compartmentalizing Vulnerable Kernel Components Without Stopping the Machine Accepted by ***Linux Security Summit 2024***
 - [ 2024-05-28 ] Stop! Sandboxing Exploitable Functions and Modules Using In-Kernel Machine Learning Accepted by ***Black Hat USA 2024***

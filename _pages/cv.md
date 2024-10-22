@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Computer Science, University of Colorado, Boulder, 2030 (expected)
+* Pursuing Ph.D in Computer Science, University of Colorado, Boulder, 2030 (expected)
 * B.S. in Information Security, Huazhong University of Science and Technology, 2023
 
 Work experience
@@ -31,7 +31,7 @@ Work experience
 Skills
 ======
 * Programming Language
-  * C, C++, Python, Golang
+  * ASM, C, C++, Python, Golang
 * CTF
   * Reverse Engineering, Pwn
 * Windows Security Research
@@ -60,7 +60,27 @@ Service and leadership
 * ACM CCS 2023 Artifact Evaluation Committee
 * Team Leader of L3H_Sec CTF Team in 2022
 
+Awards
+======
+* Member of team 42-b3yond-6ug winning AIxCC semi-final
+* Member of team 42-b3yond-6ug winning AIxCC Small Business Track
+* Outstanding graduate from CSE College of Huazhong University of Science and Technology (HUST)
+* No. 8 of ByteCTF2022
+* 2022 Science and Technology innovation scholarship of HUST
+* No. 2 of DEFCON30 CTF FINAL with Katzebin
+* Black Hat Asia & USA, Student Scholarship, 2022
+* No. 5 of *CTF2022
+* 2021 Science and Technology innovation scholarship of HUST
+* 2020 Science and Technology innovation scholarship of HUST
+* Second Prize of National College Student Information Security Contest Innovation Practice Ability Competition 2020
+* No. 4 of WCTF2020
+* No. 2 of SCTF2020
+* No. 11 of the First National Middle School Students’ Cybersecurity Competition 2018
+* No. 9 of the First Middle School Students’ Cybersecurity Cup hosted by Beijing University of Posts and
+* Telecommunications 2018
+* First Prize of National Olympiad in Informatics in Provinces (NOIP) 2017 Liaoning
+
 CVE and Bugs
 ======
-* [CVE-2022-21895](https://msrc.microsoft.com/update-guide/en-US/advisory/CVE-2022-21895): Windows User Profile Service Elevation of Privilege Vulnerability
 * [\[PATCH\] drivers: clocksource: fix memory leak in davinci_timer_register](https://lore.kernel.org/lkml/20230322151945.102353-1-flno@hust.edu.cn/)
+* [CVE-2022-21895](https://msrc.microsoft.com/update-guide/en-US/advisory/CVE-2022-21895): Windows User Profile Service Elevation of Privilege Vulnerability
