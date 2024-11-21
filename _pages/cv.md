@@ -76,8 +76,7 @@ Awards
 * No. 4 of WCTF2020
 * No. 2 of SCTF2020
 * No. 11 of the First National Middle School Students’ Cybersecurity Competition 2018
-* No. 9 of the First Middle School Students’ Cybersecurity Cup hosted by Beijing University of Posts and
-* Telecommunications 2018
+* No. 9 of the First Middle School Students’ Cybersecurity Cup hosted by Beijing University of Posts and Telecommunications 2018
 * First Prize of National Olympiad in Informatics in Provinces (NOIP) 2017 Liaoning
 
 CVE and Bugs
