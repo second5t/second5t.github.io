@@ -9,11 +9,10 @@ redirect_from:
 
 I am a 1st-year Ph.D. student in Computer Science at the University of Colorado, Boulder. My research interests include system and software security, with a focus on Windows security research. I am advised by [Prof. Yueqi Chen](http://cusecurity.cs.colorado.edu/yueqichen/).
 
-News
+Timeline
 =========
 
 - <u>I'm actively seeking internship in vulnerability and exploit research related jobs!<u>
-- [ 2025-05-31 ] One paper got accepted at ***USENIX Security '25***
 - [ 2025-05-12 ] BinWhisper: LLM-Driven Reasoning for Automated Vulnerability Discovery Behind Hall-of-Fame Accepted by ***Black Hat USA 2025***
 - [ 2024-08-11 ] Member of team ***42-b3yond-6ug*** which wins DARPA AIxCC semi-final and is awarded ***$2M*** towards final
 - [ 2024-06-07 ] Compartmentalizing Vulnerable Kernel Components Without Stopping the Machine Accepted by ***Linux Security Summit 2024***
