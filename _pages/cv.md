@@ -62,6 +62,7 @@ Service and leadership
 
 Awards
 ======
+* Nomination of Pwnie for Best RCE 2025
 * Member of team 42-b3yond-6ug winning AIxCC semi-final
 * Member of team 42-b3yond-6ug winning AIxCC Small Business Track
 * Outstanding graduate from CSE College of Huazhong University of Science and Technology (HUST)
