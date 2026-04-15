@@ -84,3 +84,5 @@ CVE and Bugs
 ======
 * [\[PATCH\] drivers: clocksource: fix memory leak in davinci_timer_register](https://lore.kernel.org/lkml/20230322151945.102353-1-flno@hust.edu.cn/)
 * [CVE-2022-21895](https://msrc.microsoft.com/update-guide/en-US/advisory/CVE-2022-21895): Windows User Profile Service Elevation of Privilege Vulnerability
+* [CVE-2025-60710](https://msrc.microsoft.com/update-guide/en-US/advisory/CVE-2025-60710): Host Process for Windows Tasks Elevation of Privilege Vulnerability
+* [CVE-2026-33825](https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-33825): Microsoft Defender Elevation of Privilege Vulnerability
