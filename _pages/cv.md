@@ -82,6 +82,7 @@ Awards
 
 CVE and Bugs
 ======
+* [CVE-2026-32223](https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-32223): Windows USB Printing Stack (usbprint.sys) Elevation of Privilege Vulnerability
 * [CVE-2026-26168](https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-26168): Windows Ancillary Function Driver for WinSock Elevation of Privilege Vulnerability
 * [CVE-2026-33825](https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-33825): Microsoft Defender Elevation of Privilege Vulnerability
 * [CVE-2025-60710](https://msrc.microsoft.com/update-guide/en-US/advisory/CVE-2025-60710): Host Process for Windows Tasks Elevation of Privilege Vulnerability
