@@ -82,9 +82,16 @@ Awards
 
 CVE and Bugs
 ======
-* [CVE-2026-32223](https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-32223): Windows USB Printing Stack (usbprint.sys) Elevation of Privilege Vulnerability
-* [CVE-2026-26168](https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-26168): Windows Ancillary Function Driver for WinSock Elevation of Privilege Vulnerability
-* [CVE-2026-33825](https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-33825): Microsoft Defender Elevation of Privilege Vulnerability
-* [CVE-2025-60710](https://msrc.microsoft.com/update-guide/en-US/advisory/CVE-2025-60710): Host Process for Windows Tasks Elevation of Privilege Vulnerability
 * [CVE-2022-21895](https://msrc.microsoft.com/update-guide/en-US/advisory/CVE-2022-21895): Windows User Profile Service Elevation of Privilege Vulnerability
+* [CVE-2025-60710](https://msrc.microsoft.com/update-guide/en-US/advisory/CVE-2025-60710): Host Process for Windows Tasks Elevation of Privilege Vulnerability
+* [CVE-2026-33825](https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-33825): Microsoft Defender Elevation of Privilege Vulnerability
+* [CVE-2026-26168](https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-26168): Windows Ancillary Function Driver for WinSock Elevation of Privilege Vulnerability
+* [CVE-2026-32223](https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-32223): Windows USB Printing Stack (usbprint.sys) Elevation of Privilege Vulnerability
+* [CVE-2026-23672](https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-23672): Windows Universal Disk Format File System Driver (UDFS) Elevation of Privilege Vulnerability
+* [CVE-2026-41091](https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-41091): Microsoft Defender Elevation of Privilege Vulnerability
+* [CVE-2026-40409](https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-40409): Windows Universal Disk Format File System Driver (UDFS) Elevation of Privilege Vulnerability
+* [CVE-2026-42968](https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-42968): Windows Telephony Service Information Disclosure Vulnerability
+* [CVE-2026-42981](https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-42981): Windows Performance Monitor Remote Code Execution Vulnerability
+* [CVE-2026-42974](https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-42974): Windows Performance Monitor Remote Code Execution Vulnerability
+* [CVE-2026-44811](https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-44811): Windows DWM Core Library Elevation of Privilege Vulnerability
 * [\[PATCH\] drivers: clocksource: fix memory leak in davinci_timer_register](https://lore.kernel.org/lkml/20230322151945.102353-1-flno@hust.edu.cn/)
