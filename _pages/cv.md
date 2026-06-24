@@ -94,4 +94,5 @@ CVE and Bugs
 * [CVE-2026-42981](https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-42981): Windows Performance Monitor Remote Code Execution Vulnerability
 * [CVE-2026-42974](https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-42974): Windows Performance Monitor Remote Code Execution Vulnerability
 * [CVE-2026-44811](https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-44811): Windows DWM Core Library Elevation of Privilege Vulnerability
+* [CVE-2026-42828](https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-42828): Windows Projected File System Elevation of Privilege Vulnerability
 * [\[PATCH\] drivers: clocksource: fix memory leak in davinci_timer_register](https://lore.kernel.org/lkml/20230322151945.102353-1-flno@hust.edu.cn/)
